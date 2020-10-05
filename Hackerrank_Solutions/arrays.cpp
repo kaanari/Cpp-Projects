@@ -19,6 +19,7 @@ int main() {
     
     for(int i=n-1;0<=i;i--){
         cout<<liste[i] << " ";
+        cout << "Hello World!";
     }
     return 0;
 }
